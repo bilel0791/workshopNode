@@ -1,7 +1,5 @@
 const fs = require('fs');
-//const path = require('note.js');
 
-//const notesPath = path.join(__dirname, 'note.js');
 
 // Function to read the notes from the JSON file
 const readNotes = () => {
